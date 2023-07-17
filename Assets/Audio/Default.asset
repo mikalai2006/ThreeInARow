@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f98800b25763bc4390521410efbd523, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: 
+  volumeEffect: 0.5
+  volumeMusic: 0
+  addChar: {fileID: 0}
+  removeChar: {fileID: 0}
+  openHiddenChar: {fileID: 0}
+  openHintChar: {fileID: 0}
+  existWord: {fileID: 0}
+  noWord: {fileID: 0}
+  addToFlask: {fileID: 0}
+  addCoin: {fileID: 0}
+  calculateCoin: {fileID: 0}
+  clickButton: {fileID: 8300000, guid: 18598401ef51dca49ac6dd0e676c8868, type: 3}
+  openWord: {fileID: 0}
+  addBonus: {fileID: 0}

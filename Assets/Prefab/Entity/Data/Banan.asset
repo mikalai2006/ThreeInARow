@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 782f8a6988fd310439a20f524e731c21, type: 3}
+  m_Name: Banan
+  m_EditorClassIdentifier: 
+  idEntity: banan
+  typeEntity: 1
+  text:
+    title:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    description:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  sprite: {fileID: 21300000, guid: feb7bee9a4882d04bb77367172c90579, type: 3}
+  prefab:
+    m_AssetGUID: f58232fe9b7378b47878a0e81ef8c4f9
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  activateEffect: {fileID: 0}
+  MoveEffect: {fileID: 0}
+  isUseGenerator: 0
+  soundRunEntity: {fileID: 0}
+  soundAddEntity: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []

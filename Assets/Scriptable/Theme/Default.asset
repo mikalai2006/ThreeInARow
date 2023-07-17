@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87ab369d9f7c175498a033c6688b4df2, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: 
+  bgImage: {fileID: 0}
+  bgHiddenWord: {r: 0, g: 0, b: 0, a: 0}
+  bgOpentHiddenWord: {r: 0, g: 0, b: 0, a: 0}
+  textOpentHiddenWord: {r: 0, g: 0, b: 0, a: 0}
+  bgImageHiddenWord: {fileID: 0}
+  bgOpenNeiHiddenWord: {r: 0, g: 0, b: 0, a: 0}
+  textOpenNeiHiddenWord: {r: 0, g: 0, b: 0, a: 0}
+  bgChoosedWord: {r: 0, g: 0, b: 0, a: 0}
+  textChoosedWord: {r: 0, g: 0, b: 0, a: 0}
+  bgFindAllowWord: {r: 0, g: 0, b: 0, a: 0}
+  textFindAllowWord: {r: 0, g: 0, b: 0, a: 0}
+  bgFindHiddenWord: {r: 0, g: 0, b: 0, a: 0}
+  textFindHiddenWord: {r: 0, g: 0, b: 0, a: 0}
+  bgNotFoundWord: {r: 0, g: 0, b: 0, a: 0}
+  textNotFoundWord: {r: 0, g: 0, b: 0, a: 0}
+  colorTextChar: {r: 0, g: 0, b: 0, a: 0}
+  bgColorChar: {r: 0, g: 0, b: 0, a: 0}
+  colorTextChooseChar: {r: 0, g: 0, b: 0, a: 0}
+  bgColorChooseChar: {r: 0, g: 0, b: 0, a: 0}
+  bgImageChar: {fileID: 0}
+  bgImageCharChoose: {fileID: 0}
+  bgColor: {r: 0.8867924, g: 0.8867924, b: 0.8867924, a: 1}
+  colorBgGrid: {r: 0, g: 0, b: 0, a: 0}
+  colorBgControl: {r: 0, g: 0, b: 0, a: 0}
+  colorLine: {r: 0, g: 0, b: 0, a: 0}
+  colorPrimary: {r: 0.11320752, g: 0.11320752, b: 0.11320752, a: 1}
+  colorSecondary: {r: 0.33962262, g: 0.33962262, b: 0.33962262, a: 1}
+  colorAccent: {r: 0.8490566, g: 0.64976865, b: 0.15619439, a: 1}
+  entityColor: {r: 0, g: 0, b: 0, a: 0}
+  colorDisable: {r: 0, g: 0, b: 0, a: 0}
+  entityColorAsBonus: {r: 0, g: 0, b: 0, a: 0}
+  entityBgButton: {r: 0, g: 0, b: 0, a: 0}
+  colorBgHint: {r: 0, g: 0, b: 0, a: 0}
+  colorTextHint: {r: 0, g: 0, b: 0, a: 0}
+  colorBgInput: {r: 0.8396226, g: 0.8396226, b: 0.8396226, a: 1}
+  colorTextInput: {r: 0, g: 0, b: 0, a: 1}
+  colorBgTopSide: {r: 0, g: 0, b: 0, a: 0}
+  colorBgButton: {r: 0.6886792, g: 0.6886792, b: 0.6886792, a: 1}
+  colorBgDialog: {r: 0, g: 0, b: 0, a: 0}

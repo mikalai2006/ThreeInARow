@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6aa4eac3b3b754c4b9882d35a741e84c, type: 3}
+  m_Name: GameSetting
+  m_EditorClassIdentifier: 
+  Audio: {fileID: 11400000, guid: 81404c023dd4b8245b5d122741d25653, type: 2}
+  prefabHiddenChar:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  ThemeDefault: {fileID: 11400000, guid: d2180cc017ba9b544b2b8e49e8555351, type: 2}
+  PlayerSettings: []
+  countHoursDailyGift: 0
+  lineWidth: 0
+  radius: 0
+  addinitiallyRow: 0
+  maxCountHiddenChar: 0
+  minCountHiddenChar: 0
+  gridWidth: 10
+  gridHeight: 10
+  timeGeneralAnimation: 0
+  Boom: {fileID: 0}
+  BoomLarge: {fileID: 0}
+  spriteShuffle: {fileID: 0}
+  spriteFlask: {fileID: 0}
+  spriteDirectory: {fileID: 0}
+  spriteCog: {fileID: 0}
+  spriteRate: {fileID: 0}
+  spriteShop: {fileID: 0}
+  spriteAdv: {fileID: 0}
+  spriteBuy: {fileID: 0}
+  spriteInfo: {fileID: 0}
+  spriteDouble: {fileID: 0}
+  spriteUser: {fileID: 0}
+  spriteChamp: {fileID: 0}
+  spriteClose: {fileID: 0}
+  debounceTime: 0
+  timeDelayOverChar: 0
+  GameLevels: []
+  ShopItems: []
+  ShopItemsBonus: []
+  noName:
+    title:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    description:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  APIDirectory:
+    token: 
+    pathExpression: 
+  adsPerTime: 0
+  minRateForReview: 0
+  countCoinForReview: 0
+  references:
+    version: 2
+    RefIds: []
